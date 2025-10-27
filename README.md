@@ -167,6 +167,7 @@ Visual development platforms requiring minimal to no coding.
 Backend-as-a-Service and deployment platforms with code generation features.
 
 - [Supabase](https://supabase.com) - Open-source Firebase alternative with auto-generated REST and GraphQL APIs from PostgreSQL.
+- [Neon](https://neon.tech) - Serverless Postgres with database branching, autoscaling, scale-to-zero, and PostgREST-compatible Data API.
 - [Firebase](https://firebase.google.com) - Google's BaaS platform with AI-powered Firebase Studio for app prototyping.
 - [Vercel](https://vercel.com) - Frontend cloud with Next.js optimization and v0 AI development tools.
 - [Netlify](https://www.netlify.com) - Web deployment platform with preview environments and one-click deployments.

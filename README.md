@@ -6,7 +6,10 @@
 
 <div align="center">
   <a href="https://inbound.new?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-codegen">
-    <img src="https://ci3.googleusercontent.com/meips/ADKq_NaDK2ur_5e23ozem55e7fVJcD3yv55prrpMBKbizoG19DEUWLxAjAIDRMa9f01idEqoCI2q3m9bWRPILgLWyc3gpMek8A=s0-d-e1-ft#https://inbound.new/images/inbound-wordmark.png" alt="Inbound" width="200">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inboundemail/inbound/refs/heads/main/public/images/inbound-wordmark-lightmode.png" width="200">
+      <img src="https://ci3.googleusercontent.com/meips/ADKq_NaDK2ur_5e23ozem55e7fVJcD3yv55prrpMBKbizoG19DEUWLxAjAIDRMa9f01idEqoCI2q3m9bWRPILgLWyc3gpMek8A=s0-d-e1-ft#https://inbound.new/images/inbound-wordmark.png" alt="Inbound" width="200">
+    </picture>
   </a>
 </div>
 

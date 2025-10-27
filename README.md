@@ -1,5 +1,19 @@
 # Awesome CodeGen [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+---
+
+### Sponsored by
+
+<div align="center">
+  <a href="https://inbound.new?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-codegen">
+    <img src="https://ci3.googleusercontent.com/meips/ADKq_NaDK2ur_5e23ozem55e7fVJcD3yv55prrpMBKbizoG19DEUWLxAjAIDRMa9f01idEqoCI2q3m9bWRPILgLWyc3gpMek8A=s0-d-e1-ft#https://inbound.new/images/inbound-wordmark.png" alt="Inbound" width="200">
+  </a>
+</div>
+
+**[Inbound](https://inbound.new?utm_source=github&utm_medium=awesome-list&utm_campaign=awesome-codegen)** is a comprehensive email infrastructure platform that enables developers to send transactional emails, receive and parse inbound messages via webhooks, and build AI-powered email agents with a unified REST API and TypeScript SDK.
+
+---
+
 > A curated list of AI-powered code generation tools, platforms, and services for building websites, apps, and software using artificial intelligence.
 
 Code generation has been revolutionized by AI, enabling developers and non-developers alike to build applications faster than ever before. This list covers everything from full-stack app builders to specialized code generators, IDE assistants, and no-code platforms.

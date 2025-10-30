@@ -30,7 +30,6 @@ Tools that generate complete, deployable applications from natural language prom
 - [v0](https://v0.app) - Vercel's AI-powered UI generation tool that creates production-ready React components with Tailwind CSS and ShadCN UI.
 - [Lovable](https://lovable.dev) - AI-powered platform that builds full-stack applications with React, Tailwind, backend handlers, and database schema from natural commands.
 - [Replit](https://replit.com) - Online IDE with Ghostwriter AI for code completion, generation, and chat, plus instant deployment capabilities.
-- [Codev](https://www.co.dev/) - AI platform converting text descriptions into full-stack Next.js web applications.
 
 ## AI Code Editors & IDEs
 
@@ -50,7 +49,7 @@ IDE extensions and plugins that provide AI-powered code completion and generatio
 - [Codeium](https://codeium.com) - Free, unlimited AI coding assistant with smart completions, refactoring, and multi-language support.
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) - AWS-focused AI coding assistant specialized in cloud-native development and infrastructure.
 - [Continue.dev](https://continue.dev) - Open-source AI coding assistant supporting multiple LLMs (cloud and local) with VS Code and JetBrains integration.
-- [Supermaven](https://supermaven.com) - Lightning-fast AI code completion with 1M+ token context window for large codebases.
+- [Supermaven](https://supermaven.com) - Lightning-fast AI code completion with 1M+ token context window for large codebases. (depricating soon)
 - [Sourcegraph Cody](https://sourcegraph.com/cody) - AI assistant leveraging Sourcegraph's code graph for deep codebase understanding and context-aware completions.
 - [JetBrains AI Assistant](https://www.jetbrains.com/ai/) - Native AI integration for IntelliJ IDEA, PyCharm, and WebStorm with context-aware suggestions.
 - [Qodo Gen](https://www.qodo.ai/products/qodo-gen/) - AI coding agent focused on code integrity, test generation, and finding edge cases.

@@ -26,6 +26,7 @@ Code generation has been revolutionized by AI, enabling developers and non-devel
 
 Tools that generate complete, deployable applications from natural language prompts.
 
+- [ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) - CLI tool that generates full-stack vertical SaaS apps (Next.js + Tailwind) from a single niche keyword, with industry-specific data models and CRUD.
 - [Bolt.new](https://bolt.new) - Browser-native AI coding tool that generates, runs, and deploys full-stack apps instantly using StackBlitz WebContainers.
 - [v0](https://v0.app) - Vercel's AI-powered UI generation tool that creates production-ready React components with Tailwind CSS and ShadCN UI.
 - [Lovable](https://lovable.dev) - AI-powered platform that builds full-stack applications with React, Tailwind, backend handlers, and database schema from natural commands.

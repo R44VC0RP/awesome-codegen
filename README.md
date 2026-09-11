@@ -30,6 +30,7 @@ Tools that generate complete, deployable applications from natural language prom
 - [v0](https://v0.app) - Vercel's AI-powered UI generation tool that creates production-ready React components with Tailwind CSS and ShadCN UI.
 - [Lovable](https://lovable.dev) - AI-powered platform that builds full-stack applications with React, Tailwind, backend handlers, and database schema from natural commands.
 - [Replit](https://replit.com) - Online IDE with Ghostwriter AI for code completion, generation, and chat, plus instant deployment capabilities.
+- [Taskade Genesis](https://www.taskade.com/create) - Prompt-to-app platform that generates live portals, CRMs, and dashboards with agents and automations.
 
 ## AI Code Editors & IDEs
 

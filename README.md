@@ -120,6 +120,8 @@ AI-powered testing and code quality tools.
 
 - [Qodo (formerly Codium)](https://www.qodo.ai) - AI agents for automated test generation, code review, and coverage enhancement.
 - [Qodo Cover](https://github.com/qodo-ai/qodo-cover) - AI-powered tool for automated test generation and code coverage.
+- [swift-sourcery-templates](https://github.com/modaal-agent/swift-sourcery-templates) - Sourcery templates that generate Swift protocol mocks with call counts, captured arguments and handler closures, plus type erasures; the output compiles under Swift 6 strict concurrency.
+- [kotlin-ksp-mocks](https://github.com/modaal-agent/kotlin-ksp-mocks) - KSP processor that generates recording-spy mocks for Kotlin interfaces at build time, with the same member names as swift-sourcery-templates.
 
 ## Documentation Generators
 

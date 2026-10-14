@@ -94,6 +94,7 @@ AI tools for creating mobile applications.
 - [FlutterFlow](https://flutterflow.io) - No-code platform for building Flutter apps with code export and Firebase integration.
 - [Rork](https://rork.com) - Builds production-ready mobile apps from descriptions using AI, Expo, and React Native.
 - [Workik Mobile Builder](https://workik.com/ai-powered-mobile-app-builder) - AI platform for cross-platform mobile app development.
+- [Modaal](https://modaal.dev/) - Mac app that generates native iOS (SwiftUI) and Android (Jetpack Compose) apps with the user's own AI coding agent, from a per-feature spec approved before code is written.
 
 ## Database & Schema Tools
 
